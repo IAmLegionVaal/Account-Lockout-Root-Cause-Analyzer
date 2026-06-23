@@ -32,6 +32,6 @@ Examples:
 
 Review the analyzer evidence before unlocking an account. Unlocking does not correct saved credentials, mapped drives, services, mobile devices or scheduled tasks that may immediately lock the account again. The repair tool does not reset passwords, delete credentials or alter domain lockout policy.
 
-## Author
+## Maintainer
 
-Dewald Pretorius — L2 IT Support Engineer
+IAmLegionVaal
